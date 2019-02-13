@@ -1,0 +1,13 @@
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td,p{margin:0;padding:0}body,button,input,select,textarea{font:12px/1.5 arial,"\65b0\5b8b\4f53"}h1,h2,h3,h4,h5,h6{font-size:100%}address,cite,dfn,var,em,i,u{font-style:normal}ol,ul{list-style:none}a{text-decoration:none}a:hover{text-decoration:underline}img{border:none;vertical-align:middle}:focus{outline:0}button,input,select,textarea{font-size:100%}table{border-collapse:collapse;border-spacing:0}.wbox{width:1200px;margin:0 auto}body.w990 .wbox{width:990px}body.w1000 .wbox{width:1000px}.clearfix:after,.wbox:after{content:".";display:block;height:0;clear:both;visibility:hidden}.clearfix,.wbox{*zoom:1}
+a{color: #888;text-decoration: none;} a:hover{color: #f5004b;text-decoration: none}
+.my-box01 {
+
+    width: 990px !important;
+    margin:0px auto;
+}
+.preview{display:none;}
+#fxtc{margin-right:30px;margin-top:40px!important;}
+.fr{float: right}
+.fl{float: left}
+img{vertical-align: middle;border: none;}
+
